@@ -1,0 +1,3 @@
+[submodule "iOS/RPN-Calculator"]
+	path = iOS/RPN-Calculator
+	url = https://github.com/mfremont/RPN-Calculator
